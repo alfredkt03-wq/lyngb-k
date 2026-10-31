@@ -1,0 +1,7 @@
+{
+  "redirects": [
+    { "source": "/(.*)", "has": [{ "type": "host", "value": "lyngbaekweb.dk" }], "destination": "https://www.lyngbaekhjemmesider.dk/$1", "permanent": true },
+    { "source": "/(.*)", "has": [{ "type": "host", "value": "www.lyngbaekweb.dk" }], "destination": "https://www.lyngbaekhjemmesider.dk/$1", "permanent": true },
+    { "source": "/(.*)", "has": [{ "type": "host", "value": "lyngbaekhjemmesider.dk" }], "destination": "https://www.lyngbaekhjemmesider.dk/$1", "permanent": true }
+  ]
+}
